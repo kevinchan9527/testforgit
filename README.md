@@ -1,4 +1,5 @@
 # testforgit
 testforgit
-modifybyMNmergemasterintotesta ----1
+modifybyMNmergemasterintotesta test3----1
 modifybymaster ----2
+modifybymaster ----3
