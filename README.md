@@ -1,4 +1,4 @@
 # testforgit
 testforgit
-modifybymaster ----1
+modifybyNNmaster ----1
 modifybymaster ----2
