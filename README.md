@@ -1,7 +1,7 @@
 # testforgit
 testforgit
 modifybyMNmergemasterintotesta test3----1
-modifyby amendbytesta appendby master10 ----2
+modifyby testa appendby master10 append master12----2
 modifybymaster ----3
 modifybytesta ---4
 modifyby testa ---5
